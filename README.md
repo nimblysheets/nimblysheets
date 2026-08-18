@@ -4,7 +4,7 @@ Editable Excel templates for freelancers, autónomos and small sellers. Start wi
 
 ## Free workbooks
 
-[Download the multilingual free workbook pack](https://github.com/nimblysheets/free-spreadsheet-templates/releases/latest) — eight files for English, Spanish, Mexico and Brazil. The files contain no macros and can be opened in Microsoft Excel or imported into Google Sheets.
+[Download the complete multilingual pack](https://github.com/nimblysheets/free-spreadsheet-templates/releases/download/v1.1.0/Nimbly-Sheets-Free-Excel-Templates-v1.1.0.zip) — eight files for English, Spanish, Mexico and Brazil, plus localized instructions. The files contain no macros and can be opened in Microsoft Excel or imported into Google Sheets. [Release details](https://github.com/nimblysheets/free-spreadsheet-templates/releases/latest).
 
 ## Choose a language or region
 
