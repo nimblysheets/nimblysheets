@@ -8,6 +8,10 @@ Editable Excel templates for freelancers, autónomos and small sellers. Start wi
 
 [Download the complete multilingual pack](https://github.com/nimblysheets/free-spreadsheet-templates/releases/download/v1.1.0/Nimbly-Sheets-Free-Excel-Templates-v1.1.0.zip) — eight files plus localized instructions. The files contain no macros and can be opened in Microsoft Excel or imported into Google Sheets; some formatting or features may vary by application or version. [Release details](https://github.com/nimblysheets/free-spreadsheet-templates/releases/latest).
 
+## Freelance invoice tracker
+
+[Build a traceable invoice tracker in Excel](https://nimblysheets.com/en/guides/freelance-invoice-tracker-spreadsheet?utm_source=github&utm_medium=profile&utm_campaign=invoice_tracker_guide) — separate billed, received and outstanding amounts, partial receipts and checks against source records. The guide includes a free workbook and an optional link to the paid annual edition.
+
 ## Choose a language or region
 
 | Language / region | Free starting point | Templates and resources |
